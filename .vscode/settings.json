@@ -1,0 +1,7 @@
+{
+    "phpGetterSetter.redirect": true,
+    "phpGetterSetter.short": false,
+    "phpGettersSetters.getterTemplate": "getter.php",
+    "phpGettersSetters.setterTemplate": "setter.php",
+    "phpGettersSetters.templatesDir": ""
+}
